@@ -1,6 +1,7 @@
 # GAN_LSTM
 GAN과 LSTM을 결합한 딥러닝 모델
 - 주가의 상승/하락 예측 목적
+- Google Colab 환경
 
 ## Data Set
 - Yahoo Finance에서 제공하는 주식 가격 데이터
